@@ -1,13 +1,14 @@
 ### Name: **Srijato Das**
-### Sap ID: **500119148**                                   Enrollment No: **R2142230288**
+### Sap ID: **500119148**                                   
+### Enrollment No: **R2142230288**
 ### Batch: 1
-### Subject: **Object Oriented Prograamming (Java)** 
+### Subject: **Object Oriented Programming (Java)** 
 
+----------
 
+#### **JAVA Questions**
 
-#### ** JAVA Questions **
-
-### ** Experiment 3 **
+### **Experiment 3**
 
 ## **1. Find Maximum and Minimum in an Array**  
 Given an integer array `nums` of size `n`, find the maximum and minimum elements in the array and return them as a pair.  
